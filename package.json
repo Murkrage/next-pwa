@@ -1,6 +1,6 @@
 {
     "name": "@murkrage/next-pwa",
-    "version": "5.6.0",
+    "version": "5.7.0",
     "description": "Next.js with PWA, powered by workbox. – Next 13 App directory support",
     "main": "index.js",
     "repository": "https://github.com/shadowwalker/next-pwa",
